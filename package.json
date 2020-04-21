@@ -1,0 +1,39 @@
+{
+    "version": "1.0.0",
+    "name": "posthtml-outlinks",
+    "description": "PostHTML plugin",
+    "homepage": "https://github.com/ArthurGareginyan/posthtml-outlinks",
+    "license": "MIT",
+    "keywords": [
+        "html",
+        "posthtml",
+        "posthtml-plugin",
+        "link",
+        "target",
+        "_blank",
+        "rel",
+        "nofollow",
+        "noopener",
+        "noreferrer"
+    ],
+    "author": "Arthur Gareginyan (https://www.arthurgareginyan.com)",
+    "scripts": {
+        "test": "echo \"No test specified\""
+    },
+    "main": "lib",
+    "engines": {
+        "node": ">=8"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ArthurGareginyan/posthtml-outlinks.git"
+    },
+    "bugs": {
+        "url": "https://github.com/ArthurGareginyan/posthtml-outlinks/issues"
+    },
+    "dependencies": {
+        "posthtml": "^0.11.4",
+        "url": "^0.11.0"
+    },
+    "devDependencies": {}
+}
