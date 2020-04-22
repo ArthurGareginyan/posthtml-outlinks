@@ -26,14 +26,14 @@ Contributing isn’t limited to just code. I encourage you to contribute in the 
 Please take a moment to read the guidelines in the [CONTRIBUTING.md](https://github.com/ArthurGareginyan/social-media-buttons-toolbar/blob/master/CONTRIBUTING.md) and [PostHTML Guidelines](https://github.com/posthtml/posthtml/tree/master/docs). Following them helps to communicate that you respect the time of the other contributors to the project. In turn, they’ll do their best to reciprocate that respect when working with you, across timezones and around the world.
 
 
-### Security Vulnerabilities
+## Security Vulnerabilities
 
 If you discover a security vulnerability within this plugin, please send an email to me. All security vulnerabilities will be promptly addressed.
 
 
 ## License
 
-This plugin is open-sourced software licensed under the [MIT](LICENSE) and is distributed free of charge.
+This plugin is open-sourced software licensed under the [MIT](LICENSE.md) and is distributed free of charge.
 
 
 ## Author
