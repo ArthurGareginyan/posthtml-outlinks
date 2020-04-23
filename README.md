@@ -115,7 +115,7 @@ gulp.task('posthtml', () => gulp.src('./build/\*.html')
 | `noTarget`     | `{Array}` | `[]`    | Optional | Domains to which do not add `target="_blank"` |
 | `noRel`        | `{Array}` | `[]`    | Optional | Domains to which do not add `rel="..."` |
 
-> **Note!** Current domain name must be specified using the `excludeHosts` option.
+> **Note!** The domain name of your current website must be specified using the `excludeHosts` option.
 
 
 ## Contributing
