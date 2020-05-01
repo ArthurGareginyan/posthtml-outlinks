@@ -136,6 +136,8 @@ If you discover a security vulnerability within this plugin, please send an emai
 
 This plugin is open-sourced software licensed under the [MIT](LICENSE.md) and is distributed free of charge.
 
+Commercial licensing (e.g. for projects that can’t use an open-source license) is available upon request.
+
 
 ## Author
 
