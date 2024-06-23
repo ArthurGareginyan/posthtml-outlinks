@@ -2,6 +2,8 @@
 
 `posthtml-outlinks` is a [PostHTML](https://github.com/posthtml/posthtml) plugin to automatically add `target="_blank"` and the `rel` attribute with the `nofollow`, `noopener`, `noreferrer` value to all external links (configurable).
 
+[www.npmjs.com/package/posthtml-outlinks](https://www.npmjs.com/package/posthtml-outlinks)
+
 Before:
 
 ```html
